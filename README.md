@@ -1,4 +1,4 @@
-# WarehouseManagementSystem
+# Warehouse Management System
 
 ## Overview:
 The Warehouse Management System is a project in JAVA which aims at managing a huge quantity of stocks and products and keeping a record of all the produts with their cost, stock, and transactions. It also keeps the record of all the Customers, Suppliers of the stock, Sales Managers and Warehouse Managers while generating the reports for the transactions and login informations of various users.
